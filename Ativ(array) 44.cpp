@@ -1,3 +1,13 @@
+22. **Análise de Vendas por Região**
+    
+    Escreva um algoritmo em C++ que leia uma matriz 4x5 onde cada linha representa uma região de vendas e cada coluna representa as vendas semanais (totalizando 5 semanas). O algoritmo deve:
+    
+    1. Calcular e imprimir o total de vendas em cada região ao longo das 5 semanas.
+    2. Identificar e imprimir a semana com o menor total de vendas.
+    3. Calcular e imprimir a média de vendas de todas as regiões por semana.
+
+_____________________________________________
+
 #include <iostream>
 using namespace std;
 
